@@ -1,6 +1,8 @@
 # Fractal-Visualizer
-Tools to explore and view fractals like this:
-<img src="https://sli.dev/logo-title.png" height="1800" width="500"/>
+Tools to explore and view fractals. Allows you to zoom and control the number of iterations, alongside statistics in the top right corner. Looks something like this:
+<p>
+<img src="https://github.com/Shayan925/Fractal-Visualizer/blob/main/Mandelbrot/mandelbrot_screenshot.jpg" height="500" width="1800"/>
+</p>
 
 ## How to use
 - Movement: WASD keys
